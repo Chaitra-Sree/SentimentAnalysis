@@ -4,7 +4,6 @@ nltk
 scikit-learn
 openpyxl
 vaderSentiment
-joblib
 seaborn
 matplotlib
-tensorflow
+plotly
