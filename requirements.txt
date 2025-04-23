@@ -1,0 +1,10 @@
+streamlit
+pandas
+nltk
+scikit-learn
+openpyxl
+vaderSentiment
+joblib
+seaborn
+matplotlib
+tensorflow
